@@ -1,0 +1,4 @@
+- 👋 Hi, my name is Jan and I'm a data scientist from Bavaria, Germany.
+- 👀 I’m interested in machine/deep learning, particularly time-series analysis, image analysis (medical, industrial) and NLP.
+- 🌱 I’m currently working on NLP tasks such as keyword extraction and document similarity.
+- 📫 Reach out to me: jan@ai-data.work

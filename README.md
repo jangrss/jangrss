@@ -1,4 +1,5 @@
 - 👋 Hi, my name is Jan and I'm a data scientist from Bavaria, Germany.
 - 👀 I’m interested in machine/deep learning, particularly time-series analysis, image analysis (medical, industrial) and NLP.
-- 🌱 I’m currently working on NLP tasks such as keyword extraction and document similarity.
+- 🌱 Currently working on NLP tasks such as keyword extraction and document similarity.
+- 📊 See my research @ https://www.researchgate.net/profile/Jan-Gross-3
 - 📫 Reach out to me: jan@ai-data.work
